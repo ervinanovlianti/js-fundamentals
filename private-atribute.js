@@ -23,7 +23,7 @@ class Mail {
 
 /** 
 cara 3, menambahkan prefix # , cara ini dapat digunakan pada penulisan kelas menggunakan statement `class` saja 
-hanya saja cara ini
+hanya saja cara ini belum sepenuhnya didukung oleh js engine versi lama
   **/
 // #contacts = [];
 // contoh
