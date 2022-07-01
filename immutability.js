@@ -36,6 +36,6 @@ const createUserWithNewLastName = (newLastName, user) => {
     }
 }
 
-const newUser = createUserWithNewLastName('Potter', user);
+const newUser = createUserWithNewLastName('Novlianti', user);
 
 console.log(newUser);
