@@ -7,7 +7,6 @@ console.log(truthyArray);
 
 // ketika di cek dengan console.log maka hanya akan mengembalikan nilai dalam bentuk array yang lolos saring saja atau yang bernilai truthy
 // contoh penerapan array filter dalam pengecekan kelayakan siswa untuk menerima beasiswa berdasarkan nilai skor yang didapat.
-
 const students = [{
         name: 'Harry',
         score: 60,

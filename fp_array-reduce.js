@@ -14,7 +14,6 @@ const shoes = [{
 
 const totalPrice = shoes.reduce((sum, shoe) => sum + shoe.price, 0, 0);
 
-
 console.log(totalPrice);
 
 // Note :

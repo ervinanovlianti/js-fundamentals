@@ -15,6 +15,7 @@ const students = [{
         score: 75,
     }
 ];
+
 // mengecek apakah ada student dengan kriteria berikut
 const checkJames = students.some(student => student.name === 'James');
 // mencari apakah ada student dengan kriteria demikian, jika ada tampilkan
