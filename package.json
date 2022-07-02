@@ -2,7 +2,8 @@
   "name": "js-fundamentals",
   "version": "1.0.0",
   "description": "",
-  "main": "class-method.js",
+  "main": "module/index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
